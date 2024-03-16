@@ -9,31 +9,16 @@ Hey there! 👋 Welcome to my GitHub profile! I'm 𝚊 ✨𝚙𝚊𝚜𝚜𝚒�
 - ⚡ Fun fact: In my free time, I love to solve Rubik's cubes, Sudoku, and puzzle. It's a great way for me to challenge my mind and relax after coding sessions!-
   
 - 𝙵𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗
-<p align="center">
-  <a href="https://github.com/Raghadkatout08/Raghadkatout08" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" height="30"/>
-  </a>
-  <a href="https://www.linkedin.com/in/raghad-katout-263949211/" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" height="30"/>
-  </a>
-  <a href="mailto:raghadkatout67@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/gmail.png" height="30"/>
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/Raghadkatout08/Raghadkatout08" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" height="30"/>
-  </a>
-  <a href="https://www.linkedin.com/in/raghad-katout-263949211/" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" height="30"/>
-  </a>
-  <a href="mailto:raghadkatout67@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/gmail.png" height="30"/>
-  </a>
-</p>
-
-
+<h3 align="center"><samp>𝙵𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗</samp></h3> 
+<p align="center"><a 
+href="https://github.com/Raghadkatout08/" target="_blank"><img alt="Github" 
+src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
+href="https://www.linkedin.com/in/raghad-katout-263949211/" target="_blank"><img alt="LinkedIn" 
+src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
+href="raghadkatout67@gmail.com" target="_blank"><img alt="gmail" 
+src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=red" /></a>
+ </p>
 
 
 🛠️ Technologies and Tools I use:
