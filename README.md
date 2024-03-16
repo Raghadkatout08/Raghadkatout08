@@ -9,10 +9,11 @@ Hey there! 👋 Welcome to my GitHub profile! I'm 𝚊 ✨𝚙𝚊𝚜𝚜𝚒�
 - ⚡ Fun fact: In my free time, I love to solve Rubik's cubes, Sudoku, and puzzle. It's a great way for me to challenge my mind and relax after coding sessions!-
   
 - 𝙵𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗
-[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/Raghadkatout08/Raghadkatout08) [![LinkedIn](https://img.icons8.com/ios-glyphs/30/000000/linkedin.png)](https://www.linkedin.com/in/raghad-katout-263949211/) | [![Gmail](https://img.icons8.com/ios-glyphs/30/000000/gmail.png)](raghadkatout67@gmail.com)
+[<img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" height="30"/>](https://github.com/Raghadkatout08/Raghadkatout08) 
+[<img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" height="30"/>](https://www.linkedin.com/in/raghad-katout-263949211/) 
+[<img src="https://img.icons8.com/ios-glyphs/30/000000/gmail.png" height="30"/>](mailto:raghadkatout67@gmail.com)
 
 
-🛠️ Technologies and Tools I use:
 🛠️ Technologies and Tools I use:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="30" />](https://en.wikipedia.org/wiki/HTML5) 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="30" />](https://en.wikipedia.org/wiki/CSS)
@@ -20,7 +21,6 @@ Hey there! 👋 Welcome to my GitHub profile! I'm 𝚊 ✨𝚙𝚊𝚜𝚜𝚒�
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30" />](https://en.wikipedia.org/wiki/React_(JavaScript_library))
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="30" />](https://en.wikipedia.org/wiki/Node.js)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="30" />](https://en.wikipedia.org/wiki/Express.js)
-[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" />](https://www.postman.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="30" />](https://en.wikipedia.org/wiki/Git)
 
 
