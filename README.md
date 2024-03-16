@@ -21,6 +21,10 @@ Hey there! 👋 Welcome to my GitHub profile! I'm Raghad Katout, a Full Stack We
   </a>
 </p>
 
+<img align="right" src="(https://github-readme-stats.vercel.app/api?username=raghadkatout08&count_private=true&show_icons=true&theme=dracula)">
+
+
+
 ### Technologies and Tools
 - ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
