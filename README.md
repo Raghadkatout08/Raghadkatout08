@@ -22,14 +22,16 @@ src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=
 
 
 🛠️ Technologies and Tools I use:
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="30" />](https://en.wikipedia.org/wiki/HTML5) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="30" />](https://en.wikipedia.org/wiki/CSS)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30" />](https://en.wikipedia.org/wiki/JavaScript)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30" />](https://en.wikipedia.org/wiki/React_(JavaScript_library))
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="30" />](https://en.wikipedia.org/wiki/Node.js)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="30" />](https://en.wikipedia.org/wiki/Express.js)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="30" />](https://en.wikipedia.org/wiki/Git)
-
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="30" />](https://en.wikipedia.org/wiki/HTML5) 
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="30" />](https://en.wikipedia.org/wiki/CSS)
+  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+  ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+  ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-000?&logo=React)
+  ![express](https://img.shields.io/badge/-espress-000?&logo=express)
+  ![postgresql](https://img.shields.io/badge/-postgresql-000?&logo=postgresql)
 
 
 <!---
