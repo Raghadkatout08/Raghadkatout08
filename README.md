@@ -21,6 +21,19 @@ Hey there! 👋 Welcome to my GitHub profile! I'm 𝚊 ✨𝚙𝚊𝚜𝚜𝚒�
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Raghadkatout08/Raghadkatout08" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" height="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/raghad-katout-263949211/" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" height="30"/>
+  </a>
+  <a href="mailto:raghadkatout67@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/gmail.png" height="30"/>
+  </a>
+</p>
+
+
 
 
 🛠️ Technologies and Tools I use:
