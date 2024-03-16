@@ -13,7 +13,16 @@ Hey there! 👋 Welcome to my GitHub profile! I'm 𝚊 ✨𝚙𝚊𝚜𝚜𝚒�
 
 
 🛠️ Technologies and Tools I use:
-![HTML5](https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg) | ![CSS3](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) | ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg) | ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) | ![Node.js](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg) | ![Express](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png) | ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg) | ![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
+🛠️ Technologies and Tools I use:
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="30" />](https://en.wikipedia.org/wiki/HTML5) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="30" />](https://en.wikipedia.org/wiki/CSS)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30" />](https://en.wikipedia.org/wiki/JavaScript)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30" />](https://en.wikipedia.org/wiki/React_(JavaScript_library))
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="30" />](https://en.wikipedia.org/wiki/Node.js)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="30" />](https://en.wikipedia.org/wiki/Express.js)
+[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" />](https://www.postman.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="30" />](https://en.wikipedia.org/wiki/Git)
+
 
 
 <!---
