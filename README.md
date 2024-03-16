@@ -1,5 +1,3 @@
-# 👋 Hi, I’m @Raghadkatout08
-
 ## Full-Stack Developer | Python | JavaScript
 
 Hey there! 👋 Welcome to my GitHub profile! I'm Raghad Katout, a Full Stack Web Developer passionate about leveraging technology to create innovative solutions. I have a strong background in both front-end and back-end development, with expertise in Python and JavaScript technologies.
