@@ -5,9 +5,7 @@ Hey there! 👋 Welcome to my GitHub profile! I'm Raghad Katout, a Full Stack We
 ### About Me
 - 👀 I’m interested in web development, software engineering, and exploring new technologies.
 - 🌱 I’m currently advancing my knowledge in JavaScript by exploring advanced techniques and honing my skills. Additionally, I'm delving deeper into backend development with Python to enhance my understanding of building robust and scalable applications.
-- 💞️ I’m looking to collaborate on open-source projects, web development initiatives, and projects that make a positive impact on society.
-- ⚡ Fun fact: In my free time, I love to solve Rubik's cubes, Sudoku, and puzzles. It's a great way for me to challenge my mind and relax after coding sessions!
-
+- 
 ### Find Me On
 <p align="center">
   <a href="https://github.com/Raghadkatout08" target="_blank">
