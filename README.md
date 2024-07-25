@@ -22,7 +22,7 @@ Hey there! 👋 Welcome to my GitHub profile! I'm Raghad Katout, a Full Stack We
 
 ### Technologies and Tools
 - ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-- ![Django]([https://img.shields.io/badge/-Python-000?&logo=Python](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green))
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 - ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 - ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
