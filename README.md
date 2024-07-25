@@ -11,7 +11,7 @@ Hey there! 👋 Welcome to my GitHub profile! I'm Raghad Katout, a Full Stack We
   <a href="https://github.com/Raghadkatout08" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/raghad-katout-263949211/" target="_blank">
+  <a href="www.linkedin.com/in/raghad-alkatout-263949211/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn"/>
   </a>
   <a href="mailto:raghadkatout67@gmail.com" target="_blank">
