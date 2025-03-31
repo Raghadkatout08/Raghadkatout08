@@ -1,10 +1,14 @@
 ## Full-Stack Developer | Python | JavaScript
 
-Hey there! 👋 Welcome to my GitHub profile! I'm Raghad Katout, a Full Stack Web Developer passionate about leveraging technology to create innovative solutions. I have a strong background in both front-end and back-end development, with expertise in Python and JavaScript technologies.
+Hey there! 👋 Welcome to my GitHub profile! I'm Raghad Katout, a Full-Stack Developer passionate about building scalable and efficient web applications. Skilled in JavaScript (React, Next.js) and Python (Django), with experience in both frontend and backend development.
 
 ### About Me
-- 👀 I’m interested in web development, software engineering, and exploring new technologies.
-- 🌱 I’m currently advancing my knowledge in JavaScript by exploring advanced techniques and honing my skills. Additionally, I'm delving deeper into backend development with Python to enhance my understanding of building robust and scalable applications.
+- 🚀 Passionate about software engineering and web development.
+- 📌 Focused on mastering advanced JavaScript and enhancing backend expertise with Python.
+- 🔧 Experienced in Git, database design, and project management to ensure efficient and structured development.
+- 💡 Always exploring new technologies and improving problem-solving skills.
+
+
 
 ### Find Me On
 <p align="center">
